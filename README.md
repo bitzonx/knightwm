@@ -30,7 +30,7 @@ Once the Xephyr window appears, run this from the repository directory in the se
 DISPLAY=:1 ./knightwm
 ```
 
-Click inside Xephyr and press **Alt+Enter** to open a terminal. If display `:1` is occupied, choose another display number and use it in both commands. If the host desktop intercepts a shortcut, free that shortcut in the host or change it in the binding table in `wm.c`.
+Click inside Xephyr and press **Alt+Enter** to open a terminal. If display `:1` is occupied, choose another display number and use it in both commands. If the host desktop intercepts a shortcut, free that shortcut in the host or change it in the binding table in `knightwm.c`.
 
 ## Key bindings
 
